@@ -1,1 +1,1 @@
-# biding
+# bidding
